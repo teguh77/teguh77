@@ -17,6 +17,6 @@ A satirical 3D web game about Kalimantan forest fires. Guard the forest until th
 | [Moluccas Inventory](https://github.com/teguh77/moluccas-inventory) | Inventory management app | Next.js · Prisma · PostgreSQL |
 
 ### 🧠 Learning in public
-✅ n8n basics → 🔄 AI agents → RAG → MCP
+✅ n8n → 🔄 AI agents → RAG → MCP
 
 📱 Follow the build: [TikTok](LINK) · [Instagram](LINK)
